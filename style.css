@@ -1,0 +1,59 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.heading {
+    color: #007bff;
+    font-size: 1.8em;
+    margin-bottom: 20px;
+}
+.form-control {
+    border-radius: 10px;
+}
+
+button {
+    border-radius: 10px;
+}
+
+.results-container {
+    margin-top: 2rem;
+}
+
+.table {
+    margin-top: 2rem;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.result-summary {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #007bff;
+}
+.search-btn {
+    width: 150px; /* Set a custom width */
+    padding: 10px 20px; /* Adjust padding as needed */
+    border-radius: 10px;
+    font-size: 1em;
+}
+.search-form-container {
+    width: 100%;
+    max-width: 400px; /* Restrict max width */
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
