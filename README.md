@@ -1,6 +1,6 @@
-****Vehicle Price Estimator**
+**Vehicle Price Estimator**
 
-**Objective****
+**Objective**
 The Vehicle Price Estimator is a smart web-based application designed to estimate the average market value of a vehicle based on its year, make, model, and optional mileage. This system includes:
 A user-friendly web interface for input and result display.
 A backend that calculates the average price of similar vehicle listings.
