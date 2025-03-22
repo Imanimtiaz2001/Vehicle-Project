@@ -57,10 +57,5 @@ The frontend consists of HTML and JavaScript files for vehicle search input and 
 **Testing**
 Test cases are documented in the Google Sheet: Vehicle Market Value Estimator Test Cases.
 
-
-User-Defined Mileage Range: Allow users to set mileage ranges for search filtering.
-
-Certified Pre-Owned (CPO) Status: Adjust prices for certified pre-owned vehicles.
-
-Deployment
+**Deployment**
 The application can be deployed using Gunicorn and Nginx for production. Refer to the deployment instructions for setting up a virtual environment, configuring the application server, and managing the Flask app using systemd.
